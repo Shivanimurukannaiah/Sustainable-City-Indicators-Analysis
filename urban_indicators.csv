@@ -1,0 +1,6 @@
+city,access_to_transport,air_quality_index,green_space_percentage,health_index,population_density
+New York,0.9,65,18,0.78,11000
+San Francisco,0.95,58,22,0.81,7500
+Chicago,0.88,70,20,0.74,11900
+Los Angeles,0.85,75,17,0.76,10200
+Austin,0.92,60,30,0.82,3100
